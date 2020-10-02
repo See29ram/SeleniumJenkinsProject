@@ -2,9 +2,12 @@
 <suite name="GoogleSuiteInXml">
 <test name="GoogleTestInXml">
     <classes>
-        <class name="org.SeleniumHq.GoogleGmailTest">
-        </class>
+        <class name="org.SeleniumHq.GoogleGmailTest"></class>
     </classes>
 </test>
-
+    <test name="Amazon">
+        <classes>
+            <class name="org.SeleniumHq.Amazon"></class>
+        </classes>
+    </test>
 </suite>
